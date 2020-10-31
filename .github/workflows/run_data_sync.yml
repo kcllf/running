@@ -24,7 +24,7 @@ env:
 
 jobs:
   sync:
-      name: Sync
+    name: Sync
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

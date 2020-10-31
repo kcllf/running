@@ -17,7 +17,7 @@ on:
       - requirements.txt
 
 env:
-  RUN_TYPE: strava # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change it to your own
+  RUN_TYPE: garmin_cn # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change it to your own
   ATHLETE: 路有多远
   TITLE: 路有多远 Running
   TITLE_GRID: Over 10km Runs

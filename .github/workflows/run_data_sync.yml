@@ -24,7 +24,7 @@ env:
 
 jobs:
   sync:
-    name: Sync
+      name: Sync
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -91,5 +91,5 @@ jobs:
           commit-message: "Add new runs"
           files: activities src/static/ scripts/data.db assets/ GPX_OUT/
           rebase: 'true'
-          name: yihong0618
-          email: zouzou0208@gmail.com
+          name: kcllf
+          email: kcllf@qq.com

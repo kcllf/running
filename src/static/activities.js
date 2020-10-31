@@ -254,7 +254,7 @@ const activities = [
   {
     "run_id": 1563456440000,
     "name": "run from gpx",
-    "distance": 3109.1736944204104,
+    "distance": 3109.17369442041,
     "moving_time": "0:15:59",
     "type": "Run",
     "start_date": "2019-07-18 13:27:20",
@@ -262,7 +262,7 @@ const activities = [
     "location_country": "",
     "summary_polyline": "efxyDk~fzRpA|@a@nAkHsCM^yCIcA|C`BdBt@zBba@{B}AmCh@cBbKiC~BuA^mAtBOhBt@pAxCG~Hz@dHlD|BvIdClI~@`IgAhIsD",
     "average_heartrate": 147.0,
-    "average_speed": 3.2420997856312934,
+    "average_speed": 3.242099785631293,
     "streak": 1
   },
   {
@@ -604,7 +604,7 @@ const activities = [
   {
     "run_id": 1566565512000,
     "name": "run from gpx",
-    "distance": 5998.133647342285,
+    "distance": 5998.133647342284,
     "moving_time": "0:35:55",
     "type": "Run",
     "start_date": "2019-08-23 13:05:12",
@@ -612,7 +612,7 @@ const activities = [
     "location_country": "",
     "summary_polyline": "imxyD{bgzRpBlAr@`Cn@j@`HpBbA}@zDkA~QaAdFcB`DgChBm@vDNdB~@hApB|@jL|@zBhCdCzCx@~@v@jMnAhHk@lOaFxDWxGp@zGvDtMrMlCpAlAtClEtDvDxAvG@fGiCnC_EjAsEH}CoApIsB|D_F~CmDn@eBOsEgABWi]k[_DoB",
     "average_heartrate": 150.0,
-    "average_speed": 2.7833566809012926,
+    "average_speed": 2.783356680901292,
     "streak": 1
   },
   {

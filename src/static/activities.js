@@ -4156,6 +4156,34 @@ const activities = [
     "average_heartrate": 147.0,
     "average_speed": 2.6678730434631293,
     "streak": 1
+  },
+  {
+    "run_id": 1625747667000,
+    "name": "run from gpx",
+    "distance": 10164.220183245312,
+    "moving_time": "1:04:41",
+    "type": "Run",
+    "start_date": "2021-07-08 12:34:27",
+    "start_date_local": "2021-07-08 20:34:27",
+    "location_country": "\u4e03\u4e2d\u521d\u4e2d\u9644\u5c0f, \u987a\u9526\u8def, \u6842\u6eaa\u8857\u9053, \u9ad8\u65b0\u5357\u533a, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610041 CHENGDU, \u4e2d\u56fd",
+    "summary_polyline": "cnxyDubgzR`Aj@nA?n@r@RzAlErBlCk@hAXfD]TKb@{EEc@]Tb@c@hFR\\k@pCHnFeBbEsElAg@rH@~EbBlClGxA~Ap@hFUfCj@z@rE`CbCh@~Jb@fW}JtGy@fL|@hKfD`GVvEc@rEoA~BsAh@}BrEeCjDwDfBaArGiBfCjAuCkAgGfBcB~@wDfEeEzBi@pC_J~CuJNoS_FoHEoGfAiQlH_Cb@cGDoHuAaHaDJ}G_AkH}EyDgDcAoHAuCdDoGdDyNb@ZDWbBHzDyGMkC`@k@_AkASwC{DcCq@gB}GGyCuBuG{CuBoGeAnEZ`DnB",
+    "average_heartrate": 151.0,
+    "average_speed": 2.61896938501554,
+    "streak": 1
+  },
+  {
+    "run_id": 1625922952000,
+    "name": "run from gpx",
+    "distance": 5748.148535474591,
+    "moving_time": "0:35:31",
+    "type": "Run",
+    "start_date": "2021-07-10 13:15:52",
+    "start_date_local": "2021-07-10 21:15:52",
+    "location_country": "\u4e1c\u82d1E\u533a, \u9ad8\u65b0\u5357\u533a, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610041 CHENGDU, \u4e2d\u56fd",
+    "summary_polyline": "ylxyDyagzRdCt@l@~BhH~BcEs@}B{AIkAy@iA}Bq@mA}EuAcLcBsC}DeBiC_@_Aj@pAc@~FdA`ClCx@xB~AhMdAdCvBv@|@tCzG|B_HiCy@kCgBc@_BoD_CmOaEyDcFkAg@Ro@fDAjGOGAkBYIr@sGjCa@hE~@~D`FlBbNtAbDbB\\r@dABdAn@b@rG~BkFqAoBoAUmBsCmAiAqDi@yHw@cDiAcBeCoBaFy@y@j@h@]",
+    "average_heartrate": 140.0,
+    "average_speed": 2.6973949016774244,
+    "streak": 1
   }
 ];
 

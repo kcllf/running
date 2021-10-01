@@ -4492,6 +4492,20 @@ const activities = [
     "average_heartrate": 148.0,
     "average_speed": 2.630023845672887,
     "streak": 1
+  },
+  {
+    "run_id": 1633005643000,
+    "name": "run from gpx",
+    "distance": 16052.506567459786,
+    "moving_time": "1:42:18",
+    "type": "Run",
+    "start_date": "2021-09-30 12:40:43",
+    "start_date_local": "2021-09-30 20:40:43",
+    "location_country": "\u6842\u6eaa\u8857\u9053, \u4e1c\u82d1E\u533a, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610041 CHENGDU, \u4e2d\u56fd",
+    "summary_polyline": "amxyDmagzRjBd@|@`AJhAnCfBvBLbAe@hGKxE}@n@XjESpBVzCwBpCm@jBaB~B[nEb@hB~Ad@lCMhFfAnClEjElBn@pA_HoDsCUP\\b@pGbDhLfAzFw@jQmHlFaAlIDzOzDGTlCP|HYvG}BmHhCqGPiD[yN{DyH[mGx@{TxIgEV_FWwGsAcDgCc@aKiAgFoDmC}DsAwGQwDpDgE~BqF~@oN|@yGiA_DyDoDkSeBuBaGkDuPyClNfBjGtCnDbEdDxQrBpDdAf@`G`AjLiARv@Zy@hJsA|FyFv@QbAVhCUbEp@~AlAlCxE]n@zApERvDjElBLl@aAnGi@p@sEuAcDaFk@kB@}I]_AyAiA_DUiCZsLnHiE]kUlAaAu@mAKuDiEc@C}AsCcC_RqFiEwKgBl@^`AKVn@cAlGHlGOiKp@cB`BQ~F`BdBhAr@vAlBzNzAvDdCfAZlBtIvC]`B{BhAsC\\gC{A",
+    "average_heartrate": 151.0,
+    "average_speed": 2.615266628781327,
+    "streak": 1
   }
 ];
 
